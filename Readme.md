@@ -3,7 +3,7 @@
 ## Databricks_Mlflow_Streamlit_Docker_Ngrok ##
 
 - Using integrated MLflow envirnoment in databricks, created experiments for churn prediction.
-- Selected best performing model after finetuing in mlflow envirnoment.
+- Selected best performing model after fine-tuning in mlflow envirnoment.
 - Created Streamlit application to get direct predictions for new untested data.
 - Employed docker to containerized the whole project.
 - Deployed it using ngrok.
