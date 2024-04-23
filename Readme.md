@@ -9,8 +9,8 @@
 - Deployed it using ngrok.
 
 #### Application Snap
-![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/54564be7-e355-486e-92ce-9fd5a077ecef)
+![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/04b7b84f-cbca-49a1-953a-fec1875dd902)
 
-![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/5d5b002b-6f8e-4c3f-bacf-41b1645d375b)
+![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/594728e0-a7cc-49ed-9c42-3cf4d6c3b78d)
 
 
