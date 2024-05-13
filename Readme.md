@@ -1,7 +1,3 @@
-Based on the structure and content of your GitHub repository for the Churn Prediction Challenge, here is a README file you can use for your repository:
-
----
-
 # Churn Prediction Challenge
 
 This repository contains all the necessary files for the Churn Prediction Challenge on Coursera. The project aims to predict customer churn rates using machine learning techniques. It includes data exploration, model building, and deployment phases, utilizing a variety of technologies and platforms such as Databricks, MLflow, and Streamlit.
@@ -71,7 +67,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 
-#### Application Snap
+### Application Snap
+
 ![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/04b7b84f-cbca-49a1-953a-fec1875dd902)
 
 ![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/a3589899-3000-48b1-b26d-ba42525a7919)
