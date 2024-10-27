@@ -67,10 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 
-### Application Snap
-
-![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/04b7b84f-cbca-49a1-953a-fec1875dd902)
-
-![image](https://github.com/zapod838/Churn_Prediction/assets/45763055/a3589899-3000-48b1-b26d-ba42525a7919)
-
-
